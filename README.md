@@ -24,10 +24,3 @@ node server.js
 
 Then open `http://localhost:8000`.
 
-## How to Submit as a Live Link
-
-Use any free static hosting option:
-
-1. Netlify Drop: upload the project folder at `https://app.netlify.com/drop`
-2. GitHub Pages: upload these files to a GitHub repository and enable Pages
-3. Vercel: import the folder/repository and deploy it
