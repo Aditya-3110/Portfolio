@@ -22,5 +22,5 @@ You can also run a local JavaScript server:
 node server.js
 ```
 
-Then open `http://localhost:8000`.
+Then open `https://tubular-entremet-e08dd5.netlify.app/`.
 
