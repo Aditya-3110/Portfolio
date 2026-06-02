@@ -31,9 +31,3 @@ This portfolio includes:
 - `styles.css` - Styling, layout, responsiveness, and animations
 - `script.js` - Scroll reveal animation and active navigation
 - `server.js` - JavaScript server for local preview
-
-<<<<<<< HEAD
-Then open `https://tubular-entremet-e08dd5.netlify.app/`.
-
-=======
->>>>>>> c74d4cf (update)
