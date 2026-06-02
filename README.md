@@ -1,26 +1,39 @@
 # Aditya Kumar Gupta Portfolio
 
-This is an AI-assisted portfolio website created for Assessment Task 1 using
-details from `Aditya_resume.pdf`.
+Personal portfolio website highlighting my academic background, technical skills, projects, and achievements.
 
-## Included Sections
+## Live Website
 
-- Name and introduction
+Submission link: https://tubular-entremet-e08dd5.netlify.app/
+
+## Project Overview
+
+This portfolio includes:
+
+- Personal introduction
 - Education
-- Projects
+- Featured projects
 - Technical skills
-- Achievement
-- Contact details
+- LeetCode achievement
+- Contact and profile links
 
-## How to Open
+## Tech Stack
 
-Open `index.html` in a browser to preview the website.
+- HTML
+- CSS
+- JavaScript
+- Node.js local server
+- Netlify deployment
 
-You can also run a local JavaScript server:
+## Files
 
-```bash
-node server.js
-```
+- `index.html` - Main website structure
+- `styles.css` - Styling, layout, responsiveness, and animations
+- `script.js` - Scroll reveal animation and active navigation
+- `server.js` - JavaScript server for local preview
 
+<<<<<<< HEAD
 Then open `https://tubular-entremet-e08dd5.netlify.app/`.
 
+=======
+>>>>>>> c74d4cf (update)
